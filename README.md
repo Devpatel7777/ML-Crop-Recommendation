@@ -231,17 +231,14 @@ The deployment through Streamlit enables quick and user-friendly predictions sui
 
 #  Screenshots
 
-Add screenshots after deployment.
+# home_Page
 
-
-#  Screenshots
- home_Page
 <img width="1907" height="916" alt="Screenshot 2026-08-02 202921" src="https://github.com/user-attachments/assets/903a9c1d-afd5-438f-8ad3-e5ee4d6d8494" />
  
- input_form
+# input_form
  <img width="1910" height="912" alt="Screenshot 2026-08-02 203144" src="https://github.com/user-attachments/assets/4a6a55c9-1408-4ca8-b247-d5ac1bc69933" />
 
- prediction_result
+# rediction_result
 <img width="1896" height="918" alt="Screenshot 2026-08-02 203203" src="https://github.com/user-attachments/assets/9197ec17-319d-4482-b71b-7e32b4e5aa79" />
 
 
