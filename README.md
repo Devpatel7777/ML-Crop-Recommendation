@@ -9,7 +9,7 @@
 
 ---
 
-# 📖 Table of Contents
+#  Table of Contents
 
 * Project Overview
 * Problem Statement
@@ -183,7 +183,7 @@ Crop-Recommendation-System/
 
 ---
 
-# 🚀 Installation
+#  Installation
 
 ## Clone the Repository
 
@@ -211,7 +211,7 @@ streamlit run app.py
 
 ---
 
-# 💻 Usage
+#  Usage
 
 1. Launch the Streamlit application.
 2. Enter the required soil nutrient values.
@@ -221,7 +221,7 @@ streamlit run app.py
 
 ---
 
-# 📊 Results
+#  Results
 
 The trained Machine Learning model successfully predicts the most appropriate crop based on user-provided agricultural parameters.
 
@@ -229,21 +229,25 @@ The deployment through Streamlit enables quick and user-friendly predictions sui
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
 Add screenshots after deployment.
 
-```
-screenshots/
-├── home.png
+
+#  Screenshots
+ home_Page
 <img width="1907" height="916" alt="Screenshot 2026-08-02 202921" src="https://github.com/user-attachments/assets/903a9c1d-afd5-438f-8ad3-e5ee4d6d8494" />
-├── input_form.png
-├── prediction_result.png
-```
+ 
+ input_form
+ <img width="1910" height="912" alt="Screenshot 2026-08-02 203144" src="https://github.com/user-attachments/assets/4a6a55c9-1408-4ca8-b247-d5ac1bc69933" />
+
+ prediction_result
+<img width="1896" height="918" alt="Screenshot 2026-08-02 203203" src="https://github.com/user-attachments/assets/9197ec17-319d-4482-b71b-7e32b4e5aa79" />
+
 
 ---
 
-# 🔮 Future Enhancements
+#  Future Enhancements
 
 * Fertilizer Recommendation System
 * Weather API Integration
