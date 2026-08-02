@@ -238,7 +238,7 @@ The deployment through Streamlit enables quick and user-friendly predictions sui
 # input_form
  <img width="1910" height="912" alt="Screenshot 2026-08-02 203144" src="https://github.com/user-attachments/assets/4a6a55c9-1408-4ca8-b247-d5ac1bc69933" />
 
-# rediction_result
+# prediction_result
 <img width="1896" height="918" alt="Screenshot 2026-08-02 203203" src="https://github.com/user-attachments/assets/9197ec17-319d-4482-b71b-7e32b4e5aa79" />
 
 
